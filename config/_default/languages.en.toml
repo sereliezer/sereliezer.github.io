@@ -1,0 +1,17 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Eliezer de Souza da Silva"
+
+[params.author]
+  name = "Eliezer de Souza da Silva"
+  image = "img/eu-probai-cropped.png"
+  headline = "Researcher in Probabilistic AI/ML, Statistics and Data Science"
+
+[params.social]
+  twitter = "https://twitter.com/sereliezer"
+  linkedin = "https://www.linkedin.com/in/eliezersilva/"
+  github = "https://github.com/zehsilva"
+  gscholar = "https://scholar.google.com/citations?hl=en&user=EK_dBqoAAAAJ"

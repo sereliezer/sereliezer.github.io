@@ -1,0 +1,11 @@
+# config/_default/config.toml
+
+#baseURL = "https://sereliezer.github.io/"
+languageCode = "en"
+
+summaryLength = 25
+theme = "congo"
+
+[taxonomies]
+author = "authors"
+topic = "topics"

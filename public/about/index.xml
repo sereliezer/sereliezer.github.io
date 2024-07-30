@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Eliezer de Souza da Silva</title>
+    <link>//localhost:1313/about/</link>
+    <description>Recent content in About on Eliezer de Souza da Silva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>Feel free to reach out to Eliezer via the following platforms:&#xA;Email: eliezer@probabilistic.ai, eliezer.silva@fgv.br, eliezer.souza.silva@ntnu.no Twitter: @sereliezer LinkedIn: Eliezer de Souza da Silva GitHub: zehsilva Google Scholar: Eliezer de Souza da Silva </description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/research/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/research/</guid>
+      <description>Scientific knowledge is built on the foundations of probabilistic thinking, aiming to understand not only the associations between events but also how one event influences the occurrence of another.</description>
+    </item>
+    <item>
+      <title>Analyzing GFlowNets: Stability, Expressiveness, and Assessment</title>
+      <link>//localhost:1313/publications/2024a/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/2024a/</guid>
+      <description>Abstract Generative Flow Networks (GFlowNets) are powerful samplers for distributions over compositional objects (e.g., graphs). In this work, we analyze GFlowNets from three fundamental perspectives: stability, expressiveness, and assessment.</description>
+    </item>
+    <item>
+      <title>Human-in-the-Loop Causal Discovery under Latent Confounding using Ancestral GFlowNets</title>
+      <link>//localhost:1313/publications/2023a/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/2023a/</guid>
+      <description>Abstract Structure learning is the crux of causal inference. Notably, causal discovery (CD) algorithms are brittle when data is scarce, possibly inferring imprecise causal relations that contradict expert knowledge &amp;ndash; especially when considering latent confounders.</description>
+    </item>
+    <item>
+      <title>Prior Specification for Bayesian Matrix Factorization via Prior Predictive Matching</title>
+      <link>//localhost:1313/publications/2023b/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/2023b/</guid>
+      <description>Abstract The behavior of many Bayesian models used in machine learning critically depends on the choice of prior distributions, controlled by some hyperparameters typically selected through Bayesian optimization or cross-validation.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/people/</guid>
+      <description>Johasdn Doe Cute Cat&#xA;Jane Smith Cute Cat&#xA;Jane Smith Cute Cat&#xA;Jane Smith Cute Cat&#xA;Jane Smith Cute Cat&#xA;Jane Smith Cute Cat</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 20
+
+[[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 30
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 40
+
+[[footer]]
+  name = "GScholar"
+  url = "https://scholar.google.com/citations?hl=en&user=EK_dBqoAAAAJ"
+
+[[footer]]
+  name = "zehsilva@github"
+  url = "https://github.com/zehsilva"
+
+[[footer]]
+  name = "sereliezer@x"
+  url = "https://twitter.com/sereliezer"
+  
+[[footer]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/eliezersilva/"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Eliezer de Souza da Silva</title>
+    <link>//localhost:1313/topics/</link>
+    <description>Recent content in Topics on Eliezer de Souza da Silva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Generative Models</title>
+      <link>//localhost:1313/topics/deep-generative-models/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/deep-generative-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generative Flow Networks</title>
+      <link>//localhost:1313/topics/generative-flow-networks/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/generative-flow-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theoretical ML</title>
+      <link>//localhost:1313/topics/theoretical-ml/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/theoretical-ml/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
