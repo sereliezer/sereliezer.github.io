@@ -7,13 +7,15 @@ page-kind: home
 
 ### Bio
 
-I am Eliezer de Souza da Silva, a postdoctoral researcher specializing in Data Science, Machine Learning, Generative Models, and Causality. Currently, I am working at the Fundação Getúlio Vargas (FGV) School of Applied Mathematics in Rio de Janeiro, Brazil. I have experience in software development and industrial projects both a software engineer, research scientist and data scientist.
+I am Eliezer de Souza da Silva, a postdoctoral researcher specializing in Data Science, Machine Learning, Generative Models, and Causality. Currently, I am working at the [Fundação Getúlio Vargas (FGV), School of Applied Mathematics](https://emap.fgv.br/en) in Rio de Janeiro, Brazil. I have experience in software development and industrial projects both a software engineer, research scientist and data scientist.
 
 I hold a Ph.D. in Computer and Information Science from NTNU, Norway, where I completed my thesis titled "[Factorization Models with Relational and Contextual Information](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2771398)." I also earned an M.Sc. in Electrical and Computer Engineering from UNICAMP, Brazil, with a dissertation on "[Metric Space Indexing for Nearest Neighbor Search in Multimedia Context](https://doi.org/10.47749/T/UNICAMP.2014.938167)." My academic journey began with a B.Sc. in Computer Engineering from UFES, Brazil.
 
 My research focuses on developing advanced probabilistic models to solve complex problems across various scientific domains. My expertise lies in integrating uncertainty into machine learning models, enhancing the robustness and trustworthiness of AI systems. I have worked extensively on probabilistic machine learning, Bayesian statistics, causal discovery, and deep learning, with applications in areas such as information retrieval, recommender systems, NLP, time-series, physical simulations, and others.
 
-In addition to my research, I am passionate about education and mentoring. I have designed and delivered course materials, graded coursework and master theses, and mentored B.Sc. and M.Sc. students in ML/AI and applied mathematics. I have also been instrumental in organizing and leading educational initiatives such as the Nordic and Tropical ProbAI initiative, which aims to bring advanced AI education to diverse audiences.
+Currently, I have been studying and developing generative models for amortized inference, with particular focus devoted to [Generative Flow Networks](topics/generative-flow-networks/). This work has been developed under the guidance of Prof. [Diego Mesquita](https://weakly-informative.github.io/), while being part of the Green AI Lab.
+
+In addition to my research, I am passionate about education and mentoring. I have designed and delivered course materials, graded coursework and master theses, and mentored B.Sc. and M.Sc. students in ML/AI and applied mathematics. I have also been instrumental in organizing and leading educational initiatives such as the Nordic and Tropical [Probabilistic AI School](https://probabilistic.ai/), which aims to bring advanced AI education to diverse audiences.
 
 Outside of academia, I enjoy music playing and composition, cultural events, traveling, running, basketball, meditation, and exploring nature. Most of the time I do those thins with my son, friends, and sometimes strangers. I grew up in multiple countries, and value cultural exchanges. I am fluent in Portuguese, English, and Cape Verdean Creole, and have basic to intermediate knowledge of French and Spanish.
 
