@@ -72,10 +72,18 @@
     
   
     
+  
+    
+  
+    
+  
+    
       <url>
             <loc>//localhost:1313/publications/2023a/</loc>
             <lastmod>2023-01-01T00:00:00+00:00</lastmod>
           </url>
+    
+  
     
   
     
@@ -92,10 +100,33 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
       <url>
-            <loc>//localhost:1313/blog/</loc>
-            <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+            <loc>//localhost:1313/publications/2019a/</loc>
+            <lastmod>2019-01-01T00:00:00+00:00</lastmod>
           </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/publications/2017a/</loc>
+            <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
     
   
     
@@ -103,6 +134,30 @@
             <loc>//localhost:1313/blog/old1/</loc>
             <lastmod>2016-03-13T00:00:00+00:00</lastmod>
           </url>
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/blog/</loc>
+            <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>//localhost:1313/publications/2014a/</loc>
+            <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
     
   
     

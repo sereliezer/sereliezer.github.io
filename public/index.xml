@@ -44,11 +44,32 @@
       <description>Abstract The behavior of many Bayesian models used in machine learning critically depends on the choice of prior distributions, controlled by some hyperparameters typically selected through Bayesian optimization or cross-validation.</description>
     </item>
     <item>
-      <title>Sampling from Dirichlet Distribution using Gamma Distributed Samples</title>
+      <title>Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions</title>
+      <link>//localhost:1313/publications/2019a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/2019a/</guid>
+      <description>Abstract In recent years session-based recommendation has emerged as an increasingly applicable type of recommendation. As sessions consist of sequences of events, this type of recommendation is a natural fit for Recurrent Neural Networks (RNNs).</description>
+    </item>
+    <item>
+      <title>Content-Based Social Recommendation with Poisson Matrix Factorization</title>
+      <link>//localhost:1313/publications/2017a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/2017a/</guid>
+      <description>Abstract We introduce Poisson Matrix Factorization with Content and Social trust information (PoissonMF-CS), a latent variable probabilistic model for recommender systems with the objective of jointly modeling social trust, item content and user’s preference using Poisson matrix factorization framework.</description>
+    </item>
+    <item>
+      <title>(test post) Sampling from Dirichlet Distribution using Gamma Distributed Samples</title>
       <link>//localhost:1313/blog/old1/</link>
       <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/blog/old1/</guid>
       <description>There is an algorithm to generate Dirichlet samples using a sampler for Gamma distribution for any \( \alpha &amp;gt; 0 \) and \( \beta &amp;gt; 0 \).</description>
+    </item>
+    <item>
+      <title>Large-scale distributed locality-sensitive hashing for general metric data</title>
+      <link>//localhost:1313/publications/2014a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/2014a/</guid>
+      <description>Abstract Locality-Sensitive Hashing (LSH) is extremely competitive for similarity search, but works under the assumption of uniform access cost to the data, and for just a handful of dissimilarities for which locality-sensitive families are available.</description>
     </item>
     <item>
       <title></title>

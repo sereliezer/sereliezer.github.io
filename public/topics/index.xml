@@ -29,5 +29,75 @@
       <guid>//localhost:1313/topics/theoretical-ml/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Bayesian Matrix Factorization</title>
+      <link>//localhost:1313/topics/bayesian-matrix-factorization/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/bayesian-matrix-factorization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Causal ML</title>
+      <link>//localhost:1313/topics/causal-ml/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/causal-ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Causal Structure Learning</title>
+      <link>//localhost:1313/topics/causal-structure-learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/causal-structure-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prior Predictive Analysis</title>
+      <link>//localhost:1313/topics/prior-predictive-analysis/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/prior-predictive-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Point Processes</title>
+      <link>//localhost:1313/topics/point-processes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/point-processes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recommender Systems</title>
+      <link>//localhost:1313/topics/recommender-systems/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/recommender-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recurrent Neural Networks</title>
+      <link>//localhost:1313/topics/recurrent-neural-networks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/recurrent-neural-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Variational Inference</title>
+      <link>//localhost:1313/topics/variational-inference/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/variational-inference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Locality Sensitive Hashing</title>
+      <link>//localhost:1313/topics/locality-sensitive-hashing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/locality-sensitive-hashing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Probabilistic Data Structures</title>
+      <link>//localhost:1313/topics/probabilistic-data-structures/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/probabilistic-data-structures/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 ---
-title: "Sampling from Dirichlet Distribution using Gamma Distributed Samples"
+title: "(test post) Sampling from Dirichlet Distribution using Gamma Distributed Samples"
 date: 2016-03-13
 author: "Eliezer de Souza da Silva"
 tags: ["old blog"]

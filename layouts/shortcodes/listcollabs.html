@@ -1,0 +1,9 @@
+
+{{ range $name, $taxonomy := .Site.Taxonomies.authors }}
+{{ if strings.Contains $name "eliezer"}}
+{{ else }}
+- {{$name}}
+{{ end }}
+{{ end }}
+
+  

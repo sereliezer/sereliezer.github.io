@@ -51,10 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tiago Silva</title>
-      <link>//localhost:1313/authors/tiago-silva/</link>
+      <title>Tiago Da Silva</title>
+      <link>//localhost:1313/authors/tiago-da-silva/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/tiago-silva/</guid>
+      <guid>//localhost:1313/authors/tiago-da-silva/</guid>
       <description></description>
     </item>
     <item>
@@ -100,17 +100,66 @@
       <description></description>
     </item>
     <item>
-      <title>Tiago Da Silva</title>
-      <link>//localhost:1313/authors/tiago-da-silva/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/tiago-da-silva/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tomasz Kuśmierczyk</title>
       <link>//localhost:1313/authors/tomasz-ku%C5%9Bmierczyk/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/tomasz-ku%C5%9Bmierczyk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bjørnar Vassøy</title>
+      <link>//localhost:1313/authors/bj%C3%B8rnar-vass%C3%B8y/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/bj%C3%B8rnar-vass%C3%B8y/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Erlend Aune</title>
+      <link>//localhost:1313/authors/erlend-aune/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/erlend-aune/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Massimiliano Ruocco</title>
+      <link>//localhost:1313/authors/massimiliano-ruocco/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/massimiliano-ruocco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Helge Langseth</title>
+      <link>//localhost:1313/authors/helge-langseth/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/helge-langseth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heri Ramampiaro</title>
+      <link>//localhost:1313/authors/heri-ramampiaro/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/heri-ramampiaro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eduardo Valle</title>
+      <link>//localhost:1313/authors/eduardo-valle/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/eduardo-valle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>George Teodoro</title>
+      <link>//localhost:1313/authors/george-teodoro/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/george-teodoro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thiago Teixeira</title>
+      <link>//localhost:1313/authors/thiago-teixeira/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/thiago-teixeira/</guid>
       <description></description>
     </item>
   </channel>

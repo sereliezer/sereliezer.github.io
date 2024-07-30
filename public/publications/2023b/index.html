@@ -102,9 +102,11 @@
     <meta property="article:section" content="publications">
     <meta property="article:published_time" content="2023-01-01T00:00:00+00:00">
     <meta property="article:modified_time" content="2023-01-01T00:00:00+00:00">
+    <meta property="og:image" content="//localhost:1313/publications/2023b/feature.png">
 
   
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="//localhost:1313/publications/2023b/feature.png">
   <meta name="twitter:title" content="Prior Specification for Bayesian Matrix Factorization via Prior Predictive Matching">
   <meta name="twitter:description" content="Abstract The behavior of many Bayesian models used in machine learning critically depends on the choice of prior distributions, controlled by some hyperparameters typically selected through Bayesian optimization or cross-validation.">
       <meta name="twitter:site" content="@https://twitter.com/sereliezer">
@@ -134,7 +136,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "199"
+    "wordCount": "198"
   }
   </script>
 
@@ -398,7 +400,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2023-01-01 00:00:00 &#43;0000 UTC">1 January 2023</time><span class="px-2 text-primary-500">&middot;</span><span>199 words</span>
+      <time datetime="2023-01-01 00:00:00 &#43;0000 UTC">1 January 2023</time><span class="px-2 text-primary-500">&middot;</span><span>198 words</span>
     
 
     
@@ -438,6 +440,26 @@
         
       
         
+          
+            <a
+              href="/topics/bayesian-matrix-factorization/"
+              class="mx-1 my-1 rounded-md border border-neutral-200 px-1 py-[1px] hover:border-primary-300 hover:text-primary-700 dark:border-neutral-600 dark:hover:border-primary-600 dark:hover:text-primary-400"
+              >Bayesian Matrix Factorization</a
+            >
+          
+            <a
+              href="/topics/theoretical-ml/"
+              class="mx-1 my-1 rounded-md border border-neutral-200 px-1 py-[1px] hover:border-primary-300 hover:text-primary-700 dark:border-neutral-600 dark:hover:border-primary-600 dark:hover:text-primary-400"
+              >Theoretical ML</a
+            >
+          
+            <a
+              href="/topics/prior-predictive-analysis/"
+              class="mx-1 my-1 rounded-md border border-neutral-200 px-1 py-[1px] hover:border-primary-300 hover:text-primary-700 dark:border-neutral-600 dark:hover:border-primary-600 dark:hover:text-primary-400"
+              >Prior Predictive Analysis</a
+            >
+          
+        
       
     </div>
   
@@ -446,6 +468,71 @@
         </div>
       
       
+        <div class="prose">
+          
+          
+          
+          
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mb-6 -mt-4 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            srcset="/publications/2023b/feature_hue33595a90bda9b413add4625f8c0bced_96138_330x0_resize_q75_h2_box_3.webp 330w,/publications/2023b/feature_hue33595a90bda9b413add4625f8c0bced_96138_660x0_resize_q75_h2_box_3.webp 660w
+            
+              
+                ,/publications/2023b/feature_hue33595a90bda9b413add4625f8c0bced_96138_716x639_resize_q75_h2_box_3.webp 716w
+              
+            
+            
+              
+                ,/publications/2023b/feature_hue33595a90bda9b413add4625f8c0bced_96138_716x639_resize_q75_h2_box_3.webp 716w
+              
+            "
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="716"
+        height="639"
+        class="mb-6 -mt-4 rounded-md"
+        
+        
+        
+          src="/publications/2023b/feature_hue33595a90bda9b413add4625f8c0bced_96138_660x0_resize_box_3.png"
+          srcset="/publications/2023b/feature_hue33595a90bda9b413add4625f8c0bced_96138_330x0_resize_box_3.png 330w,/publications/2023b/feature_hue33595a90bda9b413add4625f8c0bced_96138_660x0_resize_box_3.png 660w
+          
+            ,/publications/2023b/feature.png 716w
+          
+          
+            ,/publications/2023b/feature.png 716w
+          "
+          sizes="100vw"
+        
+      />
+    </picture>
+  
+
+
+          
+        </div>
+      
     </header>
     <section class="prose mt-0 flex max-w-full flex-col dark:prose-invert lg:flex-row">
       
@@ -453,7 +540,7 @@
         <p><strong>Abstract</strong>
 The behavior of many Bayesian models used in machine learning critically depends on the choice of prior distributions, controlled by some hyperparameters typically selected through Bayesian optimization or cross-validation. This requires repeated, costly, posterior inference. We provide an alternative for selecting good priors without carrying out posterior inference, building on the prior predictive distribution that marginalizes the model parameters. We estimate virtual statistics for data generated by the prior predictive distribution and then optimize over the hyperparameters to learn those for which the virtual statistics match the target values provided by the user or estimated from (a subset of) the observed data. We apply the principle for probabilistic matrix factorization, for which good solutions for prior selection have been missing. We show that for Poisson factorization models we can analytically determine the hyperparameters, including the number of factors, that best replicate the target statistics, and we empirically study the sensitivity of the approach for the model mismatch. We also present a model-independent procedure that determines the hyperparameters for general models by stochastic optimization and demonstrate this extension in the context of hierarchical matrix factorization models.</p>
 <p><strong>Accepted at</strong>
-<a href="https://www.jmlr.org/papers/v24/21-0623.html" target="_blank" rel="noreferrer">Journal of Machine Learning Research, n 24, 2023</a></p>
+<a href="https://www.jmlr.org/papers/v24/21-0623.html" target="_blank" rel="noreferrer">Journal of Machine Learning Research, v24, 2023</a></p>
 <p><strong>Extras</strong>
 <a href="https://github.com/zehsilva/prior-predictive-specification" target="_blank" rel="noreferrer">Code</a>
 <a href="bibtex/bib.bib">Bibtex</a></p>
@@ -538,6 +625,25 @@ The behavior of many Bayesian models used in machine learning critically depends
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="flex justify-between pt-3">
         <span>
+          
+            <a class="group flex" href="/publications/2019a/">
+              <span
+                class="me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+                ><span class="ltr:inline rtl:hidden">&larr;</span
+                ><span class="ltr:hidden rtl:inline">&rarr;</span></span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2019-01-01 00:00:00 &#43;0000 UTC">1 January 2019</time>
+                  
+                </span>
+              </span>
+            </a>
           
         </span>
         <span>

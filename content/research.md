@@ -9,6 +9,7 @@ Scientific knowledge is built on the foundations of probabilistic thinking, aimi
 My fundamental interest lies in understanding the principles of statistical learning, model building, and decision-making. Specifically, I focus on the role of uncertainty in enhancing the models and algorithms in machine learning and artificial intelligence. This involves integrating confidence measures into decisions and processes, leading to better engineering and design across various applications. I am passionate about applying ML/AI models to different scientific fields and creating a feedback loop between information, knowledge building, and model inference, mediated by increased insights and confidence in machine-generated knowledge.
 
 ### Research Interests
+[List of topics linked to publications](topics)
 
 - **Probabilistic Machine Learning**
     - **Models**
@@ -27,6 +28,7 @@ My fundamental interest lies in understanding the principles of statistical lear
 - **Bayesian Statistics**
     - Prior Predictive Analysis
     - Empirical Bayes
+    - Probabilistic Programming
 
 - **Causality**
     - Causal Discovery
@@ -42,3 +44,8 @@ My fundamental interest lies in understanding the principles of statistical lear
     - Climate Models
     - Fluid Dynamics Simulations
     - Global Health
+
+### Collaborators
+[List of People](authors)
+
+{{%listcollabs%}}

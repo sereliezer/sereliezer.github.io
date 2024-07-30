@@ -15,11 +15,11 @@ My research focuses on developing advanced probabilistic models to solve complex
 
 In addition to my research, I am passionate about education and mentoring. I have designed and delivered course materials, graded coursework and master theses, and mentored B.Sc. and M.Sc. students in ML/AI and applied mathematics. I have also been instrumental in organizing and leading educational initiatives such as the Nordic and Tropical ProbAI initiative, which aims to bring advanced AI education to diverse audiences.
 
-Outside of academia, I enjoy music playing and composition, running, basketball, meditation, and exploring nature. Most of the time I do those thins with my son, friends, and sometimes strangers. I grew up in multiple countries, and value cultural exchanges. I am fluent in Portuguese, English, and Cape Verdean Creole, and have basic to intermediate knowledge of French and Spanish.
+Outside of academia, I enjoy music playing and composition, cultural events, traveling, running, basketball, meditation, and exploring nature. Most of the time I do those thins with my son, friends, and sometimes strangers. I grew up in multiple countries, and value cultural exchanges. I am fluent in Portuguese, English, and Cape Verdean Creole, and have basic to intermediate knowledge of French and Spanish.
 
 For a comprehensive overview of my professional journey, including my publications and detailed academic and industry experiences, please refer to my full CV [here](pdf/cv_eliezer.pdf).
 
-{{< figure src="img/tropai1.jpg" caption="With [Antonio Gois](https://antoniogois.github.io/) and [Juan Ramirez](https://juan43ramirez.github.io/) at the [Tropical Probabilistic AI School 2025](https://tropical.probabilistic.ai/) in Rio de Janeiro, Brazil" >}}
+{{< figure src="img/tropai1.jpg" caption="With [Antonio Gois](https://antoniogois.github.io/) and [Juan Ramirez](https://juan43ramirez.github.io/) at the [Tropical Probabilistic AI School 2024](https://tropical.probabilistic.ai/) in Rio de Janeiro, Brazil" >}}
 
 
 ### Contact
