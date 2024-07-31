@@ -22,15 +22,30 @@
 [[footer]]
   name = "GScholar"
   url = "https://scholar.google.com/citations?hl=en&user=EK_dBqoAAAAJ"
+  weight = 10
 
 [[footer]]
   name = "zehsilva@github"
   url = "https://github.com/zehsilva"
+  weight = 10
 
 [[footer]]
   name = "sereliezer@x"
   url = "https://twitter.com/sereliezer"
+  weight = 20
   
 [[footer]]
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/eliezersilva/"
+  weight = 20
+
+[[footer]]
+  name = "CV (pdf)"
+  url = "about/pdf/cv_eliezer.pdf"
+  weight = 30
+
+[[footer]]
+  name = "CV Lattes (pt-br)"
+  url = "http://lattes.cnpq.br/9396110273991411"
+  weight = 40
+  
