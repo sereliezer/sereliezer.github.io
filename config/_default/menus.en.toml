@@ -48,4 +48,14 @@
   name = "CV Lattes (pt-br)"
   url = "http://lattes.cnpq.br/9396110273991411"
   weight = 40
+
+[[footer]]
+  name = "Mini CV"
+  url = "https://zehsilva.github.io"
+  weight = 45
+
+[[footer]]
+  name = "ORCID"
+  url = "https://orcid.org/0000-0002-5462-9782"
+  weight = 50
   
