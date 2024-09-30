@@ -9,3 +9,4 @@ theme = "congo"
 [taxonomies]
 author = "authors"
 topic = "topics"
+category = "categories"

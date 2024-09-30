@@ -5,16 +5,19 @@ autoSwitchAppearance = false
 enableSearch = false
 enableCodeCopy = true
 enableImageLazyLoading = true
-
 footer.showAppearanceSwitcher = true
 header.layout = "hybrid"
+mainSections = ["blog","publications"]
 
 [homepage]
 layout = "profile"
+showRecent = true
+recentLimit = 5
+
 
 [list]
 showSummary = true
-showTaxonomies = false
+showTaxonomies = true
 
 [article]
 showTableOfContents = true
