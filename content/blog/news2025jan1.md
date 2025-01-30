@@ -1,6 +1,6 @@
 ---
 title: "Paper Accepted at ICLR 2025: When do GFlowNets Learn the Right Distribution?"
-date: 2025-02-01
+date: 2025-01-29
 author: "Eliezer de Souza da Silva"
 tags: ["news", "paper accepted", "iclr", "gflownets", "probabilistic methods", "sampling"]
 categories: ["blog", "news", "paper accepted"]
