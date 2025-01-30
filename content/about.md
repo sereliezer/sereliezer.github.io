@@ -40,18 +40,31 @@ For a comprehensive overview of my professional journey, including my publicatio
   - Dissertation: [Metric Space Indexing for Nearest Neighbor Search in Multimedia Context](https://doi.org/10.47749/T/UNICAMP.2014.938167)
 - **B.Sc. in Computer Engineering**, UFES, Brazil
 
+### Selected Works  
 
-### Selected Works
+- **When do GFlowNets Learn the Right Distribution?**  
+  In *Proceedings of the International Conference on Learning Representations (ICLR)*, 2025.  
+  Tiago da Silva, Rodrigo Barreto Alves, Eliezer de Souza da Silva, Amauri H Souza, Vikas Garg, Samuel Kaski, and Diego Mesquita.  
 
-- **Analyzing GFlowNets: Stability, Expressiveness, and Assessment.** In *ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling* (non-archival workshop), 2024. Tiago da Silva, Eliezer de Souza da Silva, Rodrigo Barreto Alves, Luiz Max Carvalho, Amauri H Souza, Samuel Kaski, Vikas Garg, and Diego Mesquita. 
+- **On Divergence Measures for Training GFlowNets.**  
+  In *Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS)*, 2024.  
+  Tiago da Silva, Eliezer de Souza da Silva, and Diego Mesquita.  
 
-- **Prior Specification for Bayesian Matrix Factorization via Prior Predictive Matching.** *Journal of Machine Learning Research* 24 (2023). Eliezer de Souza da Silva, Tomasz Kuśmierczyk, Marcelo Hartmann, and Arto Klami. 
+- **Prior Specification for Bayesian Matrix Factorization via Prior Predictive Matching.**  
+  *Journal of Machine Learning Research* 24 (2023).  
+  Eliezer de Souza da Silva, Tomasz Kuśmierczyk, Marcelo Hartmann, and Arto Klami.  
 
--  **Time is of the Essence: A Joint Hierarchical RNN and Point Process Model for Time and Item Predictions.** In *Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM)*, 2019. Bjørnar Vassøy, Massimiliano Ruocco, Eliezer de Souza da Silva, and Erlend Aune.
+- **Time is of the Essence: A Joint Hierarchical RNN and Point Process Model for Time and Item Predictions.**  
+  In *Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM)*, 2019.  
+  Bjørnar Vassøy, Massimiliano Ruocco, Eliezer de Souza da Silva, and Erlend Aune.  
 
-- **Content-Based Social Recommendation with Poisson Matrix Factorization.** In *Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2017. Eliezer de Souza da Silva, Helge Langseth, and Heri Ramampiaro. 
+- **Content-Based Social Recommendation with Poisson Matrix Factorization.**  
+  In *Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2017.  
+  Eliezer de Souza da Silva, Helge Langseth, and Heri Ramampiaro.  
 
-- **Large-Scale Distributed Locality-Sensitive Hashing for General Metric Data.** In *Proceedings of the International Conference on Similarity Search and Applications (SISAP)*, 2014. Eliezer de Souza da Silva, Thiago S.F.X. Teixeira, George Teodoro, and Eduardo Valle.
+- **Large-Scale Distributed Locality-Sensitive Hashing for General Metric Data.**  
+  In *Proceedings of the International Conference on Similarity Search and Applications (SISAP)*, 2014.  
+  Eliezer de Souza da Silva, Thiago S.F.X. Teixeira, George Teodoro, and Eduardo Valle.  
 
 
 ### Hobbies
