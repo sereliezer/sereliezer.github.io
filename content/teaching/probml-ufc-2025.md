@@ -56,16 +56,13 @@ categories: ["teaching"]
 - 📜 **Google Colab:** [Executar Código](https://colab.research.google.com/drive/1hFzEL-rOeetqqJkNKvSh1QhqUBGxtSUcw?usp=sharing)
 
 ---
-
----
-
 ## 🎓 Invited Lectures – Probabilistic Machine Learning (Federal University of Ceará)
 
-📅 **Dates:** January 30, 2025, and February 4, 2025  
+📅 **Dates:**     January 30, 2025, and February 4, 2025  
 👨‍🏫 **Host Professor:** César Lincoln Cavalcante Mattos (Federal University of Ceará)  
 📍 **Course:** Probabilistic Machine Learning  
 🖥️ **Topic:** Introduction to Sampling Methods for Bayesian Inference  
----
+
 
 ### 📌 **Lecture 1 - Foundations of Bayesian Inference and Sampling Methods**  
 📅 **Date:** January 30, 2025 
