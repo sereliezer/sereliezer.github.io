@@ -19,6 +19,11 @@
   pageRef = "blog"
   weight = 40
 
+[[main]]
+  name = "Teaching"
+  pageRef = "teaching"
+  weight = 50
+
 [[footer]]
   name = "GScholar"
   url = "https://scholar.google.com/citations?hl=en&user=EK_dBqoAAAAJ"
