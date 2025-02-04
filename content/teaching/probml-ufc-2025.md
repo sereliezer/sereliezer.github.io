@@ -28,7 +28,6 @@ A palestra apresenta métodos de **amostragem para inferência Bayesiana**, fund
 
 🔗 **Materiais**:
 - 📄 **Slides da Aula 1:** [Baixar PDF](pdf/aula-1.pdf)
-- 📄 **Slides da Apresentação do Curso:** [Baixar PDF](pdf/aula_amaprob_apresentacao.pdf)
 - 📜 **Google Colab:** [Executar Código](https://colab.research.google.com/drive/12DTvgH4eBHidwY-iGNFYdxhHTuD8TAs3?usp=sharing)
 
 📚 **Referências Principais**:
