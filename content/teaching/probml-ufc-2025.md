@@ -68,7 +68,7 @@ categories: ["teaching"]
 ---
 
 ### 📌 **Lecture 1 - Foundations of Bayesian Inference and Sampling Methods**  
-📅 **Date:** January 30, 2025  
+📅 **Date:** January 30, 2025 
 🎯 **Topics Covered**:
 1. **Foundations of Bayesian Inference**:
    - Probabilistic modeling and belief updating
