@@ -1,13 +1,15 @@
 ---
-title: "Paper Accepted at ICLR 2025: When do GFlowNets Learn the Right Distribution?"
+title: "Paper Accepted at ICLR 2025 (Spotlight 🎉): When do GFlowNets Learn the Right Distribution?"
 date: 2025-01-29
 author: "Eliezer de Souza da Silva"
-tags: ["news", "paper accepted", "iclr", "gflownets", "probabilistic methods", "sampling"]
+tags: ["news", "paper accepted", "spotlight paper", "iclr", "gflownets", "probabilistic methods", "sampling"]
 categories: ["blog", "news", "paper accepted"]
 ---
 {{< katex >}}
 
 I am delighted to announce that our paper, *[When do GFlowNets Learn the Right Distribution?](https://openreview.net/forum?id=9GsgCUJtic)*, has been accepted for presentation at **[ICLR 2025](https://iclr.cc)**! This work advances our theoretical understanding of **Generative Flow Networks (GFlowNets)** by examining the impact of balance violations on their ability to approximate target distributions and proposing a novel metric for assessing correctness.
+**Update** our work has been selected as a *Spotlight* at ICLR 2025 🎉 (5.1% of the submitted papers are selected for a spotlight or an oral)
+
 
 ---
 
