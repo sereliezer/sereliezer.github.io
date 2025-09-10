@@ -9,6 +9,7 @@ categories: ["teaching"]
 ## Disciplina de Aprendizado Profundo / Deep Learning (MDCC UFC, Mestrado e Doutorado em Computação da Universidade Federal do Ceará)
 
 📅 **Datas:**  Setembro de 2025 a Janeiro de 2026 (Semestre 2025/2)
+
 📍 **Disciplina:** CK0255 - Tópicos Avançados em Aprendizagem de Máquina / CKP8377 - Tópicos Especiais em Lógica II
 
 🖥️ **Tema:** Redes neurais e aprendizado profundo
