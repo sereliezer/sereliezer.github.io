@@ -31,6 +31,6 @@ categories: ["teaching"]
 - 📄 **Slides da Aula 2:** [Baixar PDF](pdf/aula2.pdf)
 - 📜 **Google Colab:**
     - [Acessar Codigo - Perceptron e Descida de Gradiente](https://github.com/sereliezer/sereliezer.github.io/blob/master/content/teaching/deeplearning-ufc-2025/ipynb/aula2_perceptron.ipynb)
-    - [Acessar Codigo - Linear Autoencodar, PCA, Oja's Rule](https://github.com/sereliezer/sereliezer.github.io/blob/master/content/teaching/deeplearning-ufc-2025/ipynb/aula2-unsupervised.ipynb)
+    - [Acessar Codigo - Linear Autoencoder, PCA, Regra de Oja's](https://github.com/sereliezer/sereliezer.github.io/blob/master/content/teaching/deeplearning-ufc-2025/ipynb/aula2-unsupervised.ipynb)
 
 
