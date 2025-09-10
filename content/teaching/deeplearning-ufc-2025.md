@@ -10,6 +10,7 @@ categories: ["teaching"]
 
 📅 **Datas:**  Setembro de 2025 e Janeiro de 2026  
 📍 **Disciplina:** CK0255 - Tópicos Avançados em Aprendizagem de Máquina / CKP8377 - Tópicos Especiais em Lógica II
+
 🖥️ **Tema:** Redes neurais e aprendizado profundo
 
 ---
