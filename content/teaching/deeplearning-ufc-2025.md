@@ -19,7 +19,7 @@ categories: ["teaching"]
 
 🔗 **Materiais**:
 - 📄 **Slides da Aula 1:** [Baixar PDF](pdf/aula1.pdf)
-- 📜 **Google Colab:** [Acessar Codigo](ipynb/aula1.ipynb)
+- 📜 **Google Colab:** [Acessar Codigo - Redes RBF](https://github.com/sereliezer/sereliezer.github.io/blob/master/content/teaching/deeplearning-ufc-2025/ipynb/aula1_rbf.ipynb)
 
 ---
 
@@ -30,7 +30,7 @@ categories: ["teaching"]
 🔗 **Materiais**:
 - 📄 **Slides da Aula 2:** [Baixar PDF](pdf/aula2.pdf)
 - 📜 **Google Colab:**
-    - [Acessar Codigo - Perceptron e Descida de Gradiente](ipynb/aula2-perceptron.ipynb)
-    - [Acessar Codigo - Linear Autoencodar, PCA, Oja's Rule](ipynb/aula2-unsupervised.ipynb)
+    - [Acessar Codigo - Perceptron e Descida de Gradiente](https://github.com/sereliezer/sereliezer.github.io/blob/master/content/teaching/deeplearning-ufc-2025/ipynb/aula2_perceptron.ipynb)
+    - [Acessar Codigo - Linear Autoencodar, PCA, Oja's Rule](https://github.com/sereliezer/sereliezer.github.io/blob/master/content/teaching/deeplearning-ufc-2025/ipynb/aula2-unsupervised.ipynb)
 
 
