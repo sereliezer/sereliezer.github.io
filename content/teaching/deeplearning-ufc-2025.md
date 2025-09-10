@@ -18,7 +18,7 @@ categories: ["teaching"]
 📅 **Data:** 8 de Setembro de 2025
 
 🔗 **Materiais**:
-- 📄 **Slides da Aula 1:** [Baixar PDF](pdf/aula-1.pdf)
+- 📄 **Slides da Aula 1:** [Baixar PDF](pdf/aula1.pdf)
 - 📜 **Google Colab:** [Acessar Codigo](ipynb/aula1.ipynb)
 
 ---
@@ -28,7 +28,7 @@ categories: ["teaching"]
 
 
 🔗 **Materiais**:
-- 📄 **Slides da Aula 2:** [Baixar PDF](pdf/aula-2.pdf)
-- 📜 **Google Colab:** [Executar Código](https://colab.research.google.com/drive/1hFzEL-rOeetqqJkNKvSh1QhqUBGxtSUcw?usp=sharing)
+- 📄 **Slides da Aula 2:** [Baixar PDF](pdf/aula2.pdf)
+- 📜 **Google Colab:** [Acessar Codigo](ipynb/aula2.ipynb)
 
 
