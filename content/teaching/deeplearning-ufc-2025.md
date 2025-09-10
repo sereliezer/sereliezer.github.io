@@ -29,6 +29,8 @@ categories: ["teaching"]
 
 🔗 **Materiais**:
 - 📄 **Slides da Aula 2:** [Baixar PDF](pdf/aula2.pdf)
-- 📜 **Google Colab:** [Acessar Codigo](ipynb/aula2.ipynb)
+- 📜 **Google Colab:**
+    - [Acessar Codigo - Perceptron e Descida de Gradiente](ipynb/aula2-perceptron.ipynb)
+    - [Acessar Codigo - Linear Autoencodar, PCA, Oja's Rule](ipynb/aula2-unsupervised.ipynb)
 
 
