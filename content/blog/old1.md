@@ -4,8 +4,9 @@ date: 2016-03-13
 author: "Eliezer de Souza da Silva"
 tags: ["old blog"]
 categories: ["blog"]
+math: true
 ---
-{{< katex >}}
+
 
 There is an algorithm to generate Dirichlet samples using a sampler for Gamma distribution for any \\( \alpha > 0 \\) and \\( \beta > 0 \\). We will generate Gamma distributed variables \\( z_k \sim \text{gamma}(\alpha_k,1) \\), for \\( k \in \{1,\cdots,d\} \\), and do the following variable transformation to get Dirichlet samples \\( x_k = \frac{z_k}{\sum_k z_k} \\). First, we should demonstrate that this transformation results in Dirichlet distributed samples.
 
