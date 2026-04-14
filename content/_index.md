@@ -43,4 +43,4 @@ I collaborate on applications in recommender systems, Math reasoning and evaluat
 
 I am open to research collaborations, student supervision (BSc/MSc/PhD), and invited talks on probabilistic AI, Bayesian ML, and generative inference.
 
-Please reach out via email at [eliezer@probabilistic.ai](mailto:eliezer@probabilistic.ai).
+Please reach out via email at [eliezer.silva@uc.pt](mailto:eliezer.silva@uc.pt)
