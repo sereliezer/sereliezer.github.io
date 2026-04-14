@@ -14,7 +14,7 @@ I collaborate with researchers at the Basque Center for Applied Mathematics (BCA
 
 ## Contact
 
-- **Email:** [eliezer@probabilistic.ai](mailto:eliezer@probabilistic.ai)
+- **Email:** [eliezer.silva@uc.pt](mailto:eliezer.silva@uc.pt)
 - **GitHub:** [zehsilva](https://github.com/zehsilva)
 - **LinkedIn:** [eliezersilva](https://www.linkedin.com/in/eliezersilva/)
 - **Google Scholar:** [profile](https://scholar.google.com/citations?hl=en&user=EK_dBqoAAAAJ)
