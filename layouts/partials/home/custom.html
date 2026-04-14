@@ -1,9 +1,13 @@
 <div id="page">
   <section>
     <h2 class="mt-8 text-2xl font-extrabold">Recent publications</h2>
-
-    {{ range where .Site.RegularPages "Section" "publications" | first 10 }}
-      {{ partial "article-link.html" . }}
-    {{ end }}
+    <ul>
+      {{ range where .Site.RegularPages "Section" "publications" | first 10 }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .Date }}<small> — {{ .Format "2006-01-02" }}</small>{{ end }}
+        </li>
+      {{ end }}
+    </ul>
   </section>
 </div>
