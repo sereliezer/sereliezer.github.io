@@ -7,11 +7,12 @@ title = "Eliezer de Souza da Silva"
 
 [params.author]
   name = "Eliezer de Souza da Silva"
-  image = "img/eu-probai-cropped.png"
-  headline = "Assistant Professor at University of Coimbra. Research in Probabilistic AI/ML, Statistics and Data Science"
+  image = "about/img/eliezer34.jpeg"
+  headline = "Assistant Professor at the University of Coimbra"
+  bio = "Research in probabilistic AI, Bayesian modeling, amortized inference, and GFlowNets."
 
 [params.social]
-  twitter = "https://twitter.com/sereliezer"
-  linkedin = "https://www.linkedin.com/in/eliezersilva/"
   github = "https://github.com/zehsilva"
+  linkedin = "https://www.linkedin.com/in/eliezersilva/"
   gscholar = "https://scholar.google.com/citations?hl=en&user=EK_dBqoAAAAJ"
+  orcid = "https://orcid.org/0000-0002-5462-9782"
