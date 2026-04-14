@@ -4,48 +4,24 @@ date: 2024-07-23T00:00:00Z
 draft: false
 ---
 
-Scientific knowledge is built on the foundations of probabilistic thinking, aiming to understand not only the associations between events but also how one event influences the occurrence of another. Uncertainty plays a central role in this endeavor, allowing us to capture inherent variations in the world and describe the variability in the models we use to represent reality. In ML/AI, our goal is to develop algorithms and processes that replicate human efforts in learning from data, inferring new relationships, predicting future outcomes, estimating causal relationships and effects, and making data-driven decisions.
+My research program focuses on probabilistic AI: how to build learning and decision systems that remain accurate, interpretable, and reliable under uncertainty.
 
-My fundamental interest lies in understanding the principles of statistical learning, model building, and decision-making. Specifically, I focus on the role of uncertainty in enhancing the models and algorithms in machine learning and artificial intelligence. This involves integrating confidence measures into decisions and processes, leading to better engineering and design across various applications. I am passionate about applying ML/AI models to different scientific fields and creating a feedback loop between information, knowledge building, and model inference, mediated by increased insights and confidence in machine-generated knowledge.
+## Thematic areas
 
-### Research Interests
-[List of topics linked to publications](topics)
+### 1) Amortized inference and GFlowNets
+I study the theory and practice of GFlowNets and related generative models, with emphasis on training objectives, stability under balance violations, and correctness assessment.
 
-- **Probabilistic Machine Learning**
-    - **Models**
-        - Matrix and Tensor Factorization
-        - Point Processes
-        - Deep Generative Models
-    - **Inference**
-        - Variational Inference
-        - Amortized Inference
-        - Energy-efficient Inference
-    - **Probabilistic Guarantees for**
-        - Trustworthy ML
-        - Fairness
-        - Ethics
+### 2) Bayesian modeling and prior predictive methods
+I develop principled methods for prior specification and identifiability, especially for matrix and tensor factorization models. A central question is how prior predictive behavior should guide model design.
 
-- **Bayesian Statistics**
-    - Prior Predictive Analysis
-    - Empirical Bayes
-    - Probabilistic Programming
+### 3) Sequential decision-making, causality, and trustworthy AI
+I work on uncertainty-aware approaches for sequential learning and causal discovery, including human-in-the-loop workflows and reliability-oriented evaluation.
 
-- **Causality**
-    - Causal Discovery
+### 4) Application-driven probabilistic ML
+I collaborate on problems in recommender systems, language technologies, and scientific modeling where calibrated uncertainty improves decisions and deployment safety.
 
-- **Physics-Informed Neural Networks**
+## Collaborators
 
-- **Applications**
-    - Personalization and Recommender Systems
-    - Natural Language Processing
-    - Information Retrieval
-    - Complex Networks and Network Analysis
-    - Ecosystem Simulations
-    - Climate Models
-    - Fluid Dynamics Simulations
-    - Global Health
+I actively collaborate with colleagues at the University of Coimbra, BCAM, Fundação Getulio Vargas (EMAp), and international research groups.
 
-### Collaborators
-[List of People](authors)
-
-{{%listcollabs%}}
+For publication details, see the [Publications](/publications/) section.
