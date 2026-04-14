@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <section class="prose dark:prose-invert max-w-none">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}{{ . }}{{ end }}
+    <ul>
+      {{ range .Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .Date }}<small> — {{ .Format "2006-01-02" }}</small>{{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}
