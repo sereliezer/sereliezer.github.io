@@ -11,7 +11,7 @@ I am very happy to share three recent accepted publications from 2026:
 
 ---
 
-### 1. MATH-PT: A Math Reasoning Benchmark for European and Brazilian Portuguese
+#### 1. MATH-PT: A Math Reasoning Benchmark for European and Brazilian Portuguese
 **Authors:** Tiago Teixeira, Ana Carolina Erthal, Juan Belieni, Beatriz Canaverde, Miguel Faria, Diego Mesquita, Eliezer de Souza da Silva, André Martins  
 **Venue:** 17th Conference on Computational Processing of Portuguese (**PROPOR 2026**)  
 
@@ -22,7 +22,7 @@ We introduce MATH-PT, a benchmark of 1,729 native Portuguese math problems (Euro
 
 ---
 
-### 2. On the Identifiability of Tensor Ranks via Prior Predictive Matching
+#### 2. On the Identifiability of Tensor Ranks via Prior Predictive Matching
 **Authors:** Eliezer de Souza da Silva, Arto Klami, Diego Mesquita, Iñigo Urteaga  
 **Venue:** Artificial Intelligence and Statistics (**AISTATS 2026**)  
 
@@ -34,7 +34,7 @@ This paper presents a prior-predictive-matching framework for studying identifia
 
 ---
 
-### 3. Orthogonal Gradient Projection for Continual LLM Unlearning
+#### 3. Orthogonal Gradient Projection for Continual LLM Unlearning
 **Authors:** Juan Belieni, Ana Carolina Erthal, Eliezer de Souza da Silva, Diego Mesquita  
 **Venue:** **ICLR 2026 Workshop on AI with Recursive Self-Improvement**
 
