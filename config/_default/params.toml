@@ -7,13 +7,11 @@ enableCodeCopy = true
 enableImageLazyLoading = true
 footer.showAppearanceSwitcher = true
 header.layout = "hybrid"
-mainSections = ["blog","publications"]
+mainSections = ["publications", "blog"]
 
 [homepage]
-layout = "profile"
-showRecent = true
-recentLimit = 5
-
+layout = "page"
+showRecent = false
 
 [list]
 showSummary = true
