@@ -39,6 +39,12 @@ I collaborate on applications in recommender systems, Math reasoning and evaluat
 - Continual adaptation and unlearning in modern foundation-model pipelines.
 - Prior predictive identifiable aspects of tensor factorization models, with connections to larger family of models.
 
+### Prospective students and postdocs
+
+I am open to working with strong MSc students, PhD candidates, visiting students, and postdocs in probabilistic AI, Bayesian modelling, GFlowNets, uncertainty, and trustworthy adaptive AI. I currently do not have many directly funded positions, but I can support strong candidates applying through FCT, MSCA, CAPES, and related routes.
+
+See: [Work with me](/work-with-me/)
+
 ## Collaboration and contact
 
 I am open to research collaborations, student supervision (BSc/MSc/PhD), and invited talks on probabilistic AI, Bayesian ML, and generative inference.
