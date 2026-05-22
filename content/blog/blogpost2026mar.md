@@ -7,8 +7,8 @@ categories: ["blog"]
 math: true
 ---
 
-# Divergence Training for Generative Models  
-## Loss Design, Policy Gradients, and On/Off-Policy Optimization
+### Divergence Training for Generative Models  
+#### 0. Loss Design, Policy Gradients, and On/Off-Policy Optimization
 
 Over the last few years, several machine learning communities have converged on a common mathematical structure underlying many training algorithms:
 
@@ -29,7 +29,7 @@ In this post, we explore how these connections arise and why they matter. In par
 
 ---
 
-### 1. The score-function identity
+#### 1. The score-function identity
 
 A central mathematical tool in probabilistic learning is the **score-function identity**.
 
@@ -49,7 +49,7 @@ This identity appears in:
 It shows that gradients of expectations can be estimated using **weighted log-likelihood gradients**.
 
 
-### 2. Divergences between distributions
+#### 2. Divergences between distributions
 
 Suppose we want to match a model distribution $p_\theta(x)$ to a target distribution $q(x)$.
 
@@ -72,7 +72,7 @@ Each divergence induces different training dynamics.
 
 
 
-### 3. Gradient of an $f$-divergence
+#### 3. Gradient of an $f$-divergence
 
 Let
 
@@ -98,11 +98,11 @@ $$
 
 
 
-### 4. Three perspectives that rediscover the same structure
+#### 4. Three perspectives that rediscover the same structure
 
 Researchers have arrived at this structure from several directions.
 
-#### Divergence-first
+##### 4.1. Divergence-first
 
 Start with
 
@@ -113,7 +113,7 @@ $$
 This viewpoint appears in work on **divergence training of GFlowNets**.
 
 
-#### Loss-first
+##### 4.2. Loss-first
 
 Start with a surrogate loss on log probability differences:
 
@@ -137,7 +137,7 @@ $$
 
 This establishes a **loss–divergence correspondence**.
 
-#### Policy-gradient viewpoint
+##### 4.3. Policy-gradient viewpoint
 
 In reinforcement learning,
 
@@ -156,11 +156,11 @@ recovers the divergence gradient.
 This insight leads to **$f$-policy gradients**.
 
 
-### 5. On-policy vs off-policy optimization
+#### 5. On-policy vs off-policy optimization
 
 The distinction between **on-policy** and **off-policy** optimization plays a crucial role in divergence-based training.
 
-#### On-policy gradients
+##### 5.1 On-policy gradients
 
 In on-policy optimization, samples are drawn from the current model distribution:
 
@@ -179,7 +179,7 @@ This estimator is **unbiased** but can have high variance.
 Many divergence-based methods rely on this form.
 
 
-#### Off-policy gradients
+##### 5.2 Off-policy gradients
 
 In off-policy optimization, samples come from another distribution $q(x)$.
 
@@ -197,7 +197,7 @@ This introduces two challenges:
 These issues are central in both reinforcement learning and GFlowNets.
 
 
-### 6. Trajectory Balance as divergence training
+#### 6. Trajectory Balance as divergence training
 
 In GFlowNets, the goal is to learn
 
@@ -216,7 +216,7 @@ This loss operates on **log probability ratios**, which makes it compatible with
 Recent work shows that many such losses correspond to minimizing divergences between forward and backward trajectory distributions.
 
 
-### 7. Why off-policy training is tricky
+#### 7. Why off-policy training is tricky
 
 Off-policy training introduces subtle issues.
 
@@ -231,7 +231,7 @@ $$
 
 This creates two practical problems:
 
-#### A) importance weight variance
+##### A) importance weight variance
 
 The ratio
 
@@ -242,7 +242,7 @@ $$
 can become extremely large.
 
 
-#### B) support mismatch
+##### B) support mismatch
 
 If
 
@@ -260,7 +260,7 @@ then the divergence gradient becomes undefined.
 
 This issue is often overlooked in theoretical analyses but becomes critical in practice.
 
-### 8. The equivalence class of losses
+#### 8. The equivalence class of losses
 
 Another subtle observation is that **many losses induce the same gradient**.
 
@@ -290,7 +290,7 @@ Thus there exists a **family of equivalent losses** corresponding to the same di
 
 ---
 
-### 9. A unifying perspective
+#### 9. A unifying perspective
 
 We can now summarize the relationships.
 
@@ -311,27 +311,17 @@ $$
 
 ---
 
-### 10. Open questions
+#### 10. Open questions
 
 Several theoretical questions remain.
 
-#### Characterizing loss equivalence
-
-Which losses produce identical divergence gradients?
-
-#### Variance and optimization
-
-Different losses may produce the same expected gradient but very different variance properties.
-
-#### Off-policy stability
-
-How can we design divergence objectives that remain stable under off-policy sampling?
-
-This question is particularly important for large-scale generative models.
+- Characterizing loss equivalence: which losses produce identical divergence gradients?
+- Variance and optimization: different losses may produce the same expected gradient but very different variance properties.
+- Off-policy stability: how can we design divergence objectives that remain stable under off-policy sampling?
 
 ---
 
-### Final thoughts
+#### Final thoughts
 
 Divergence training provides a powerful unifying perspective on modern generative model training.
 
@@ -344,7 +334,7 @@ Understanding this structure can help us:
 - and unify ideas across machine learning fields.
 
 
-### References
+#### References
 
 - **Agarwal et al. (2023)** — *f-Policy Gradients: A General Framework for Goal-Conditioned RL using f-Divergences*. NeurIPS 2023.  
   [OpenReview](https://openreview.net/forum?id=EhhPtGsVAv&noteId=Yi1UezNKJP)
