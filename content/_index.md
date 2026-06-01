@@ -27,6 +27,7 @@ I collaborate on applications in recommender systems, Math reasoning and evaluat
 
 ## Selected publications
 - **On the Identifiability of Tensor Ranks via Prior Predictive Matching** (AISTATS 2026). Extends prior predictive ideas to tensor rank identifiability with closed-form characterizations. [Paper](https://openreview.net/forum?id=wGHcWy5Te1)
+- **Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows** (UAI 2026). Anomlay detection using conditional normalizing flows, based on failing a statistical goodness-of-fit test against prescribed latent dynamics. [Paper](https://arxiv.org/abs/2603.11756)
 - **MATH-PT: A Math Reasoning Benchmark for European and Brazilian Portuguese** (PROPOR 2026). A benchmark of 1,729 native Portuguese math problems for evaluating mathematical reasoning in LLMs. [Paper](https://aclanthology.org/2026.propor-1.102/)
 - **When do GFlowNets Learn the Right Distribution?** (ICLR 2025, Spotlight). Clarifies when balance violations harm sampling correctness and introduces a better assessment perspective. [Paper](https://openreview.net/forum?id=9GsgCUJtic)
 - **On Divergence Measures for Training GFlowNets** (NeurIPS 2024). Unifies GFlowNet training via divergence minimization and develops lower-variance gradient estimators. [Paper](https://openreview.net/forum?id=N5H4z0Pzvn)
