@@ -3,7 +3,6 @@ title: "Home"
 description: "Probabilistic AI research on Bayesian modeling, amortized inference, and trustworthy learning systems."
 ---
 
-# Eliezer de Souza da Silva
 
 Assistant Professor, Department of Informatics Engineering, University of Coimbra.
 
